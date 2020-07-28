@@ -46,3 +46,26 @@ button{
   outline:none; 
   -webkit-tap-highlight-color: transparent;
 }
+
+input[type=text] {
+  height: 2rem;
+  padding: 2px 6px;
+  margin: 8px 8px;
+  display: inline-block;
+  border: 1px solid #a3aab8;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.item{
+  font-size: 2rem;
+  color: #6c778d;
+}
+
+.button{
+  margin: auto 5px;
+  height: 2rem;
+  border: 1px solid #a3aab8;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
